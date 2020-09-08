@@ -1,3 +1,7 @@
 log.txt
 .vs/*
+<<<<<<< HEAD
 /dir2
+=======
+/dir2
+>>>>>>> login
